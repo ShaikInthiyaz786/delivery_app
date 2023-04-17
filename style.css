@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-color{
+    height: 96px;
+    color: white;
+    background-color: #0d2436;
+}
+.location-text{
+    font-size: 15px;
+}
+.note{
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 300;
+}
+.banner-note{
+    height: 120px;
+    margin: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-style: bold;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, #60365f , #d93567);
+}
+.offer1{
+    color: white;
+    font-size: 25px;
+    padding-top: 25px;
+}
+.offer2{
+    color: white;
+    font-size: 25px;
+}
+.chat-note{
+    background-color: #f4f4f4;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.banner-note-container{
+    height: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: bold;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, #d93567, #60365f);
+}
+.banner-note-container2{
+    height: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: bold;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, #60365f, #d93567);
+}
+.btn{
+    width: 180px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: #fa004f;
+}
+
+.offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.explore-menu-section {
+    background-color: white;
+}
+
+.menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+}
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
